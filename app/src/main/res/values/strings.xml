@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">Books</string>
+	<string name="books">books</string>
+	<string name="bookmarks">bookmarks</string>
+</resources>
